@@ -1,5 +1,5 @@
-# Team 21 - ISIS3510 "Mobile Apps Construction"
-Welcome to the official repository for Team 21's project in the **ISIS3510 Mobile Apps Construction** course!  
+# Team 21 - ISIS3510 Mobile App Development
+Welcome to the official repository for Team 21's project in the **ISIS3510 Mobile App Development** course!  
 
 Our team will design and develop a **mobile application** focused on $TOPIC WILL BE DECIDED SOON$
 
