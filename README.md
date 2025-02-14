@@ -1,7 +1,7 @@
 # Team 21 - ISIS3510 Mobile App Development
 Welcome to the official repository for Team 21's project in the **ISIS3510 Mobile App Development** course!  
 
-Our team will design and develop a **mobile application** focused on $TOPIC WILL BE DECIDED SOON$
+We are **GrowHub©**! Our team will design and develop a **mobile application** focused on skill-development event centralization and networking.
 
 ## Repository Structure  
 This repository will include:
